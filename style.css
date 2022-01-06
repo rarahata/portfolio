@@ -1,4 +1,15 @@
 h1 {
+    font-family: 'Playfair Display', serif;
+    margin: auto;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    margin: 20px;
+}
+
+.hero {
+    background-color: #F9F7FE;
     text-align: center;
-    background-color: red;
+
 }
